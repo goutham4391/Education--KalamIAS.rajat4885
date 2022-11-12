@@ -1,0 +1,221 @@
+.tab-content a {
+    color: red !important
+}
+
+.TRcustomMenu li>a>p {
+    margin: 0;
+    color: #000 !important;
+    font-weight: 600 !important
+}
+
+.dropdown-icon {
+    color: #fff !important;
+    top: 2px;
+    font-size: .6em;
+    font-weight: normal
+}
+
+.TRcustomMenu li.MainList:hover {
+    background-color: #f00 !important
+}
+
+.TRcustomMenu li:hover>a>p {
+    color: #fff !important
+}
+
+.TRcustomMenu li.SubList>a>p,
+.TRcustomMenu li.SubList>span>a>p {
+    color: #23567d !important
+}
+
+:root {
+    --horznavtabsbg: #9d0404;
+    --btnprimary: #ff2626;
+    --btnsecondary: #ff2626;
+    --primary-text: #020167;
+    --primarybg: #fff;
+    --btnbannerhvrbg: #fff;
+    --vertnavtabsbg: #ff2626;
+    --headerbg: #fff;
+    --headertext: #fff;
+    --submenubg: #dcebf2;
+    --headerdropdwntxt: #ff2626;
+    --headerdropdwnbg: #fff;
+    --submenutxt: #fff;
+    --pkg1: rgb(2 1 103)
+}
+
+.btn-primary {
+    background-color: #f00 !important;
+    color: #fff;
+    border-color: #f00 !important
+}
+
+.btn-primary:hover {
+    background-color: #fff !important;
+    color: #f00 !important;
+    border-color: #f00 !important
+}
+
+.btn-default {
+    background-color: #f00 !important;
+    color: #fff !important;
+    border-color: #f00 !important
+}
+
+.btn-default:hover {
+    background-color: #fff !important;
+    color: #f00 !important;
+    border-color: #f00 !important
+}
+
+.package:nth-of-type(1n) .ribbon-front a {
+    border-color: #f00;
+    color: rgb(255 255 255) !important
+}
+
+.package:nth-of-type(1n) .ribbon-front a:hover {
+    background-color: #fff !important;
+    color: #9e0b42 !important;
+    border-color: #fff !important
+}
+
+.TestContainer div[data-toggle=collapse][aria-expanded=true],
+.studyMaterialContainer div[data-toggle=collapse][aria-expanded=true] {
+    color: #fff;
+    border: 1px solid #f00 !important;
+    background-color: #f00 !important
+}
+
+.TestContainer div[data-toggle=collapse]:hover h2,
+.TestContainer div[data-toggle=collapse]:hover p,
+.TestContainer div[data-toggle=collapse]:hover .TotalTest span,
+.studyMaterialContainer div[data-toggle=collapse]:hover h2,
+.studyMaterialContainer div[data-toggle=collapse]:hover .TotalTest span {
+    color: #f00 !important
+}
+
+.TestContainer div[data-toggle=collapse]:hover,
+.studyMaterialContainer div[data-toggle=collapse]:hover {
+    background-color: #fff !important;
+    color: #f00 !important;
+    border-color: #f00 !important
+}
+
+.TestContainer .nav-tabs>li.active,
+.studyMaterialContainer .nav-tabs>li.active,
+.quizlistContainer .nav-tabs>li.active {
+    background-color: #f00 !important
+}
+
+.TestContainer .container-fluid>ul>li,
+.studyMaterialContainer .container-fluid>ul>li,
+.quizlistContainer .container-fluid>ul>li {
+    background-color: #41ddcc !important;
+    width: 100%
+}
+
+.package:nth-of-type(1n) .pkgHeader,
+.package:nth-of-type(1n) .ribbon-front {
+    background: #f00 !important
+}
+
+.TRcustomMenu .dropdown-icon {
+    top: 3px;
+    font-size: .7em;
+    font-weight: bold;
+    color: #79bed8 !important
+}
+
+.TRcustomMenu li.MainList>.dropdown-menu.singlelevel {
+    width: unset;
+    border-top: 4px solid #41ddcc !important;
+    background-color: #FFF
+}
+
+.btn-on-banner {
+    background-color: #f00 !important;
+    color: #fff !important;
+    border-color: #f00 !important
+}
+
+.btn-on-banner:hover {
+    background-color: #fff !important;
+    color: #f00 !important;
+    border-color: #f00 !important
+}
+
+.descBtnSticky {
+    background: #000 !important
+}
+
+.TRcustomMenu li.MainList>.dropdown-menu.singlelevel {
+    width: unset;
+    border-top: 4px solid #bf383d !important;
+    background-color: #FFF
+}
+
+.TestContainer .container-fluid>ul>li,
+.studyMaterialContainer .container-fluid>ul>li,
+.quizlistContainer .container-fluid>ul>li {
+    background-color: #ff9951 !important;
+    width: 100%
+}
+
+.scorup-container .nav-tabs>li.active>a,
+.scorup-container .nav-tabs>li>a:focus,
+.scorup-container .nav-tabs>li>a:hover,
+.scorup-container .nav-tabs>li.active>a:focus,
+.scorup-container .nav-tabs>li.active>a:hover {
+    background: initial;
+    border: 0;
+    color: #fff !important;
+    border-bottom: 2px solid #000
+}
+
+.outerVideoDiv .nav-tabs>li>a {
+    border: 0;
+    color: #fff;
+    white-space: nowrap
+}
+
+.outerVideoDiv .TextHeilight {
+    color: #fff !important
+}
+
+.scorup-container .container-fluid>ul>li>a>span.TextHeilight {
+    color: #fff !important
+}
+
+.TestContainer .container-fluid>ul>li,
+.studyMaterialContainer .container-fluid>ul>li,
+.quizlistContainer .container-fluid>ul>li {
+    background-color: #000 !important;
+    width: 100%
+}
+
+.scorup-container .nav-tabs>li.active>a:focus,
+.scorup-container .nav-tabs>li>a:hover,
+.scorup-container .nav-tabs>li.active>a,
+.scorup-container .container-fluid>ul>li>a,
+.scorup-container .container-fluid>ul>li>a>span {
+    color: #fff !important;
+    border-bottom: none
+}
+
+@media (min-width:768px) and (max-width:1024px) {
+    .nav-tabs>li.active>a,
+    .nav-tabs>li>a:focus,
+    .nav-tabs>li>a:hover,
+    .nav-tabs>li.active>a:focus,
+    .nav-tabs>li.active>a:hover {
+        background: initial;
+        border: 0;
+        color: #323b47 !important;
+        border-bottom: 2pxsolidvar(--btnsecondary, #ffaa46)
+    }
+    .outerVideoDiv .TextHeilight {}
+    .videoTitle a {
+        color: #000 !important
+    }
+}
